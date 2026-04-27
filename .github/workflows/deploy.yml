@@ -41,6 +41,6 @@ jobs:
             --region=us-central \
             --platform=managed \
             --allow-unauthenticated \
-            --port=808 \
+            --port=8080 \
             --set-env-vars VERSION=2.0 \
             --memory 256Mi
